@@ -1,4 +1,4 @@
-# CODSOFT_TASK_01
+# Movie Recommendation
 Movie Genre Prediction Using Machine Learning
 Project Overview
 I am excited to share my first project as an intern at CodSoft! In this project, I am developing a machine learning model to predict the genre of a movie based on its plot summary or other textual information.
